@@ -1,0 +1,16 @@
+
+
+services:
+  extractor:
+    build: .
+    container_name: pdf-outline-extractor
+    volumes:
+      - ./input:/app/input
+      - ./output:/app/output
+      - ./logs:/app/logs
+      - ./config.yaml:/app/config.yaml
+    # Example command-line arguments. You can override these.
+    # By default, it runs with the settings in config.yaml.
+    # To run with markdown output and 2 parallel workers:
+    # command: ["--format", "md", "--workers", "2"]
+    command: ["--format", "all"] # Generates both JSON and Markdown

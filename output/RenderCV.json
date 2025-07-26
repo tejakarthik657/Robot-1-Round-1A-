@@ -1,0 +1,181 @@
+{
+  "title": "K. Teja Karthik - Resume",
+  "children": [
+    {
+      "level": 1,
+      "text": "K. Teja Karthik",
+      "children": [
+        {
+          "level": 5,
+          "text": "�  India",
+          "children": [
+            {
+              "level": 7,
+              "text": "�  teja.karthik.5505@gmail.com",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "text": "�  +91 76739 23505",
+          "children": [
+            {
+              "level": 8,
+              "text": "�  github.com/tejakarthik657",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "text": "�  karthik-zeta.vercel.app",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Education",
+          "children": [
+            {
+              "level": 3,
+              "text": "Kakatiya Institute of Technology and Science (KITSW)",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Warangal, India",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Expected May 2027",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "CGPA:  7.54 / 10.0",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Experience",
+          "children": [
+            {
+              "level": 3,
+              "text": "Digital Marketing Intern  – SVAPPS Soft Solutions, Warangal",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Jul 2025 – Sep 2025",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "On-site",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "Cybersecurity Intern  – Edu Tantr, Bengaluru",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Jul 2025 – Oct 2025",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Remote",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "Web Development Intern  – KITS Warangal",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Mar 2025 – Aug 2025",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "On-site",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Projects",
+          "children": [
+            {
+              "level": 3,
+              "text": "Decentralized Stock Exchange",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Alumni-Student Networking Platform",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "College Bus Tracking System",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Document Retrieval System",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Technical Skills",
+          "children": [
+            {
+              "level": 3,
+              "text": "Languages:",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Frameworks:",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Tools & Platforms:",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Cybersecurity:",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Achievements",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Leadership & Activities",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
