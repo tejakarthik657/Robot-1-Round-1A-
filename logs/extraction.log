@@ -34,3 +34,13 @@
 2025-07-26 09:15:49,781 [INFO] - Failed to process: 0
 2025-07-26 09:15:49,781 [INFO] - Outputs saved in 'output' directory.
 2025-07-26 09:15:49,782 [INFO] - Detailed logs available in 'logs/extraction.log'
+2025-07-27 17:49:45,166 [INFO] - Starting processing of 2 PDF(s) with 16 worker(s)...
+2025-07-27 17:49:45,167 [INFO] - Output format(s): json, md
+2025-07-27 17:49:45,299 [INFO] - ✅ Success: 6874faecd848a_Adobe_India_Hackathon_-_Challenge_Doc (1).pdf
+2025-07-27 17:49:45,383 [INFO] - ✅ Success: RenderCV.pdf
+2025-07-27 17:49:45,395 [INFO] - ==============================
+2025-07-27 17:49:45,396 [INFO] - Processing complete.
+2025-07-27 17:49:45,397 [INFO] - Successfully processed: 2
+2025-07-27 17:49:45,397 [INFO] - Failed to process: 0
+2025-07-27 17:49:45,398 [INFO] - Outputs saved in 'output' directory.
+2025-07-27 17:49:45,398 [INFO] - Detailed logs available in 'logs/extraction.log'
